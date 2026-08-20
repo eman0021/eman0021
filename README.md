@@ -20,6 +20,7 @@ I'm an Information Technology undergraduate interested in software development a
 * CSS
 * Bootstrap
 * JavaScript
+* WebScrapping
 * PHP
 * MySQL
 * Python
@@ -38,8 +39,7 @@ I'm an Information Technology undergraduate interested in software development a
 My goal is to continuously improve my technical skills, build real-world projects, and grow as an IT professional.
 
 ## 🔗 Connect With Me
-linkdin : linkedin.com/in/eman-fatimah-63b761376
-Github: https://github.com/EmaanFatimah
+
 
 * **LinkedIn:** https://www.linkedin.com/in/eman-fatimah-63b761376/
 * **GitHub:** https://github.com/EmaanFatimah
